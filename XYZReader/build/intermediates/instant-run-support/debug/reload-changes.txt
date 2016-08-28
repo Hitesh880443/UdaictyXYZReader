@@ -1,0 +1,17 @@
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$fraction$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$id$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$color$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$style$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$drawable$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$styleable$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$dimen$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$color$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$string$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$mipmap$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$menu$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$color$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\cardview\R$color$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$layout$override.class
+CHANGED,F:\nanodegree\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$integer$override.class
